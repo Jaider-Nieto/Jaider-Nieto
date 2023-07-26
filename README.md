@@ -5,9 +5,9 @@
 
 - 🌱 Estoy en proceso de aprender nuevas tecnologías como: **typescript, prisma y aws**
 
-- 📫 How to reach me **jaiderlolxd@gmail.com**
+- 📫 Cómo ponerse en contacto conmigo **jaiderlolxd@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/jaider-nieto-588567238/](https://www.linkedin.com/in/jaider-nieto-588567238/)
+- 📄 Conozca mis experiencias [https://www.linkedin.com/in/jaider-nieto-588567238/](https://www.linkedin.com/in/jaider-nieto-588567238/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
