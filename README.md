@@ -1,20 +1,18 @@
-<h1 align="center">Hola 👋,Yo soy Jaider Nieto</h1>
+<h1 align="center">Hi 👋, I'm Jaider Nieto</h1>
 <h3 align="center">Un apasionado desarrollador backend de Colombia</h3>
 
-- 🔭 Actualmente estoy trabajando en [Henrify Proyecto Final](https://github.com/HenrifyPF38B/Henrify-Back)
+- 🔭 I’m currently working on [GreenScreen](https://movies-front-tau.vercel.app/)
 
-- 🌱 Estoy en proceso de aprender nuevas tecnologías como: **typescript, prisma y aws**
+- 🌱 I’m currently learning **NestJS, Jets, Prisma y Docker**
 
-- 📫 Cómo ponerse en contacto conmigo **jaiderlolxd@gmail.com**
+- 👨‍💻 All of my projects are available at [https://jaider-nieto-portafolio.netlify.app/](https://jaider-nieto-portafolio.netlify.app/)
 
-- 📄 Conozca mis experiencias [https://www.linkedin.com/in/jaider-nieto/](https://www.linkedin.com/in/jaider-nieto/)
+- 📫 How to reach me **jaiderlolxd@gmail.com**
+
+- 📄 Know about my experiences [https://www.linkedin.com/in/jaider-nieto/](https://www.linkedin.com/in/jaider-nieto/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/jaider-nieto" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="jaider-nieto" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/jaider-nieto" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jaider-nieto" height="30" width="40" /></a>
-<a href="https://fb.com/jaider nieto" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="jaider nieto" height="30" width="40" /></a>
-<a href="https://instagram.com/jaider_29" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jaider_29" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
