@@ -7,7 +7,7 @@
 
 - 📫 Cómo ponerse en contacto conmigo **jaiderlolxd@gmail.com**
 
-- 📄 Conozca mis experiencias [https://www.linkedin.com/in/jaider-nieto-588567238/](https://www.linkedin.com/in/jaider-nieto-588567238/)
+- 📄 Conozca mis experiencias [https://www.linkedin.com/in/jaider-nieto/](https://www.linkedin.com/in/jaider-nieto/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
